@@ -30,7 +30,7 @@ function App() {
       <button
       onClick={removeValue}
       >REMOVE VALUE</button>
-    </>
+    </>  
   )
 }
 
